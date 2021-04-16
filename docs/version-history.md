@@ -1,9 +1,10 @@
 ---
 layout: page
-title:	"Colorado EPS Version History"
+title:	"Michigan EPS Version History"
 ---
-This page tracks updates that have been made with each version of the Colorado Energy Policy Simulator.
+This page tracks updates that have been made with each version of the Michigan Energy Policy Simulator.
 
 ### **{version number} - {release date}**
 
 * {comment}
+
